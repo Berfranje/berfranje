@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Bernard TENGUIANO
+#  Salut, moi c’est Bernard TENGUIANO
 
 🎓 Étudiant en master 1 à l’ESMT Dakar en Management de la Transformation Digitale  
 💡 Passionné par l’IoT, la finance digitale, la data, et la gestion de projet dont je suis membre du chapitre PMI Sénégal 
@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 Ma vision
+##  Ma vision
 
 Je crois que l'**inclusion numérique** est une clé essentielle pour le développement durable du continent africain.  
 Mon objectif est de **développer des solutions technologiques locales, accessibles et innovantes**, capables de **résoudre les vrais problèmes de terrain**, notamment dans l’éducation, l’agriculture, les télécoms, ou encore l’accès à Internet.
 
 ---
 
-## 🔧 Projets personnels et académiques
+##  Projets personnels et académiques
 
-### 💡 [Womma WiFi](https://github.com/berfranje/womma-wifi)
+###  [Womma WiFi](https://github.com/berfranje/womma-wifi)
 > Un projet de solution d’accès Internet communautaire et abordable pour la Guinée, fonctionnant par **paiement mobile** (Orange Money, fintech), destiné à connecter les jeunes, les PME et les zones rurales.
 
 - Génération automatique de codes de connexion
@@ -23,14 +23,14 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 - Sécurité, simplicité et transparence
 - Objectif : inclusion numérique pour tous
 
-### 🌱 Smart Irrigation (IoT + Blynk)
+###  Smart Irrigation (IoT + Blynk)
 > Système intelligent d’arrosage automatique en fonction du **taux d’humidité du sol**, piloté via **application mobile** avec **Blynk** et microcontrôleur Arduino.
 
-### 📊 Analyse de données & BI
+###  Analyse de données & BI
 > Création de tableaux de bord avec **Excel** et **Power BI** pour visualiser les performances commerciales, analyser les ventes, ou simuler des budgets.  
 > Objectif : aider les entreprises à **prendre de meilleures décisions grâce aux données**.
 
-### 🧠 Supports de formation
+###  Supports de formation
 > Réalisation de supports professionnels pour des cours et présentations :
 - COBIT 5 & ITIL
 - BPMN
@@ -39,7 +39,7 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 
 ---
 
-## 💬 Ce que j’aime
+##  Ce que j’aime
 
 🎶 La musique (piano),  
 🍽️ La gastronomie,  
@@ -49,14 +49,14 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 
 ---
 
-## 🎯 Objectif de carrière
+##  Objectif de carrière
 
 Je me projette comme un **grand chef de projet dans le domaine du numérique**, expert en **finance digitale**, **IoT**, **intelligence artificielle** et **transformation digitale des entreprises africaines**.  
 Je veux **construire des solutions utiles et durables** et **inspirer d'autres jeunes à bâtir l'Afrique avec la technologie**.
 
 ---
 
-## 🔗 Me suivre ou me contacter
+## Me suivre ou me contacter
 
 - [LinkedIn –(http://linkedin.com/in/bernard-tenguiano-241562306)
 - [GitHub – @berfranje](https://github.com/berfranje)
