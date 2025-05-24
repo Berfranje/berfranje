@@ -36,6 +36,8 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 - BPMN
 - Impact de l’IoT sur les entreprises
 - Cloud computing (Microsoft Azure)
+- Certification en Intelligence Artificielle pour tous
+- Certfication en Gestion de Projet avec CURSA
 
 ---
 
