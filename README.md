@@ -50,6 +50,7 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 
 ###  Smart Irrigation (IoT + Blynk)
 > Système intelligent d’arrosage automatique en fonction du **taux d’humidité du sol**, piloté via **application mobile** avec **Blynk** et microcontrôleur Arduino.
+> Régarder la vidéo de ma présentation : https://youtu.be/iMXhoOJ-qH4
 
 ###  Analyse de données & BI
 > Création de tableaux de bord avec **Excel** et **Power BI** pour visualiser les performances commerciales, analyser les ventes, ou simuler des budgets.  
