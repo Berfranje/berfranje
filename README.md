@@ -14,6 +14,32 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 
 ##  Projets personnels et académiques
 
+### 🌍 [Hackathon – Qualité de l’air (Kaikai)](https://github.com/berfranje/hackathon-air-quality)
+> Participation au **Hackathon sur la qualité de l’air** au Sénégal, avec un projet de sensibilisation et d’innovation numérique.
+
+- Thème : sensibilisation des populations à la pollution de l’air  
+- Création d’une **vidéo cartoon éducative**  destinée aux enfants  
+- Collaboration en équipe : idéation, prototypage, pitch lors du Demo Day  
+- Objectif : promouvoir des solutions numériques pour un environnement plus sain  
+
+🎥 **Vidéo de présentation**  
+👉 [Regarder la vidéo Demo Day](https://drive.google.com/file/d/1i0iL16pKI4Y8DWXCZalRI06WApg9Pk3W/view?usp=drive_link)  
+
+---
+
+### 🤝 [PMI Sénégal – Équipe Communication](https://github.com/berfranje/pmi-senegal)
+> Volontaire au sein de l’**équipe communication du PMI Sénégal**, contribution à la visibilité des activités et événements.
+
+- Réalisation de contenus visuels et vidéos promotionnelles  
+- Collaboration sur la communication digitale et les réseaux sociaux  
+- Mise en avant de la gestion de projet et du leadership  
+
+🎥 **Vidéo réalisée pour PMI Sénégal**  
+👉 [Regarder la vidéo](https://drive.google.com/file/d/1xVf8CPvxUB53K_RdAdFuR_3FvFx4puq0/view?usp=drive_link)  
+
+---
+
+
 ###  [Womma WiFi](https://github.com/berfranje/womma-wifi)
 > Un projet de solution d’accès Internet communautaire et abordable pour la Guinée, fonctionnant par **paiement mobile** (Orange Money, fintech), destiné à connecter les jeunes, les PME et les zones rurales.
 
@@ -45,6 +71,7 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 🎶 La musique (piano),  
 🍽️ La gastronomie,  
 ⚽ Le football,  
+    L'audio visuel (cinéma)
 🌿 Tout ce qui est paisible,  
 📚 Et surtout **apprendre de nouvelles choses** chaque jour.
 
