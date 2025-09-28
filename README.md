@@ -14,6 +14,20 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 
 ##  Projets personnels et académiques
 
+## Stratégie marketing & communication : CAPRICE TERANGA OFFICIEL
+**Caprice Téranga** est une marque sénégalaise d’apéritif premium, alliant authenticité locale et élégance moderne. Pensé comme le compagnon idéal des moments conviviaux, le produit incarne la chaleur de la Téranga (hospitalité sénégalaise)  en matière de partage, aussi bien au Sénégal qu’à l’international, et j'accompagne la marque Caprice Téranga dans sa stratégie de positionnement et d’expansion à savoir sur ces différents Réseaux sociaux Facebook et LinkedIn : https://linktr.ee/capriceterangaofficiel
+
+## Rédaction de la charte de l'ISOC ESMT 
+Le Club **ISOC ESMT** est une antenne académique affiliée à **ISOC Sénégal**, elle-même chapitre national de l’Internet Society (ISOC).
+
+🎯 Objectifs principaux :
+
+Promouvoir une utilisation inclusive, ouverte et sécurisée d’Internet.
+Sensibiliser et former les étudiants sur les enjeux du numérique et de la gouvernance Internet.
+Encourager l’innovation, la recherche et les projets concrets liés au digital.
+💡 Le club constitue un espace d’échanges et d’actions pour contribuer activement à l’évolution de l’Internet au Sénégal et en Afrique.
+**Visualiser la charte** : 
+
 ### 🌍 [Hackathon – Qualité de l’air (Kaikai)](https://github.com/berfranje/hackathon-air-quality)
 > Participation au **Hackathon sur la qualité de l’air** au Sénégal, avec un projet de sensibilisation et d’innovation numérique.
 
@@ -34,9 +48,13 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 - Collaboration sur la communication digitale et les réseaux sociaux  
 - Mise en avant de la gestion de projet et du leadership  
 
-🎥 **Vidéo réalisée pour PMI Sénégal**  
+🎥 **Vidéo réalisée pour PMI Sénégal** 
+
+## PMI GLOBAL SUMMIT KIGALI 2025 : participation du chapitre PMI Sénégal à l'évènement regroupant tous les chapitres du PMI de l'Afrique 
 👉 [Regarder la vidéo](https://drive.google.com/file/d/1xVf8CPvxUB53K_RdAdFuR_3FvFx4puq0/view?usp=drive_link)  
 
+## YOUTH SOCIAL IMPACT : Activité de sensibilisation à la cuisson propre et au don de foyer amélioré 
+👉 [Regarder la vidéo] https://drive.google.com/file/d/1LtJbXprPpfHEgBtTeXQiTATdxtoZ-Eo4/view?usp=drive_link
 ---
 
 
