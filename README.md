@@ -50,15 +50,15 @@ Encourager l’innovation, la recherche et les projets concrets liés au digital
 
 🎥 **Vidéo réalisée pour PMI Sénégal** 
 
-# PMI GLOBAL SUMMIT KIGALI 2025 : participation du chapitre PMI Sénégal à l'évènement regroupant tous les chapitres du PMI de l'Afrique 
+### PMI GLOBAL SUMMIT KIGALI 2025 : participation du chapitre PMI Sénégal à l'évènement regroupant tous les chapitres du PMI de l'Afrique 
 👉 [Regarder la vidéo](https://drive.google.com/file/d/1xVf8CPvxUB53K_RdAdFuR_3FvFx4puq0/view?usp=drive_link)  
 
-# YOUTH SOCIAL IMPACT : Activité de sensibilisation à la cuisson propre et au don de foyer amélioré 
+### YOUTH SOCIAL IMPACT : Activité de sensibilisation à la cuisson propre et au don de foyer amélioré 
 👉 [Regarder la vidéo] (https://drive.google.com/file/d/1LtJbXprPpfHEgBtTeXQiTATdxtoZ-Eo4/view?usp=drive_link)
 ---
 
 
-##  [Womma WiFi](https://github.com/berfranje/womma-wifi)
+###  [Womma WiFi](https://github.com/berfranje/womma-wifi)
 > Un projet de solution d’accès Internet communautaire et abordable pour la Guinée, fonctionnant par **paiement mobile** (Orange Money, fintech), destiné à connecter les jeunes, les PME et les zones rurales.
 
 - Génération automatique de codes de connexion
@@ -69,10 +69,6 @@ Encourager l’innovation, la recherche et les projets concrets liés au digital
 ###  Smart Irrigation (IoT + Blynk)
 > Système intelligent d’arrosage automatique en fonction du **taux d’humidité du sol**, piloté via **application mobile** avec **Blynk** et microcontrôleur Arduino.
 > Régarder la vidéo de ma présentation : https://youtu.be/iMXhoOJ-qH4
-
-###  Analyse de données & BI
-> Création de tableaux de bord avec **Excel** et **Power BI** pour visualiser les performances commerciales, analyser les ventes, ou simuler des budgets.  
-> Objectif : aider les entreprises à **prendre de meilleures décisions grâce aux données**.
 
 ###  Supports de formation
 > Réalisation de supports professionnels pour des cours et présentations :
