@@ -50,10 +50,10 @@ Encourager l’innovation, la recherche et les projets concrets liés au digital
 
 🎥 **Vidéo réalisée pour PMI Sénégal** 
 
-### PMI GLOBAL SUMMIT KIGALI 2025 : participation du chapitre PMI Sénégal à l'évènement regroupant tous les chapitres du PMI de l'Afrique 
+### PMI Global Summit Kigali 2025 : participation du chapitre PMI Sénégal à l'évènement regroupant tous les chapitres du PMI de l'Afrique 
 👉 [Regarder la vidéo](https://drive.google.com/file/d/1xVf8CPvxUB53K_RdAdFuR_3FvFx4puq0/view?usp=drive_link)  
 
-### YOUTH SOCIAL IMPACT : Activité de sensibilisation à la cuisson propre et au don de foyer amélioré 
+### Youth social impact : Activité de sensibilisation à la cuisson propre et au don de foyer amélioré 
 👉 [Regarder la vidéo] (https://drive.google.com/file/d/1LtJbXprPpfHEgBtTeXQiTATdxtoZ-Eo4/view?usp=drive_link)
 ---
 
