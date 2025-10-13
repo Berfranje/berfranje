@@ -26,7 +26,7 @@ Promouvoir une utilisation inclusive, ouverte et sécurisée d’Internet.
 Sensibiliser et former les étudiants sur les enjeux du numérique et de la gouvernance Internet.
 Encourager l’innovation, la recherche et les projets concrets liés au digital.
 💡 Le club constitue un espace d’échanges et d’actions pour contribuer activement à l’évolution de l’Internet au Sénégal et en Afrique.
-**Visualiser la charte** : 
+**Visualiser la charte** : https://drive.google.com/file/d/1kA2kXXLKA8RT0n6X9l6mSdQMvHd-brxg/view?usp=drive_link
 
 ### 🌍 [Hackathon – Qualité de l’air (Kaikai)](https://github.com/berfranje/hackathon-air-quality)
 > Participation au **Hackathon sur la qualité de l’air** au Sénégal, avec un projet de sensibilisation et d’innovation numérique.
