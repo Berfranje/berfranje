@@ -17,10 +17,10 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 ## 2e édition Hackathon Club ISOC ESMT
 En tant que Vice Président du club, j'ai mené plusieurs tâches dont la séléction des mentors sur étude de profils, ainsi que des équipes qui ont été retenue de par la pertinence de leurs projets, la gestion de la restauration durant les 48h, la création de certaines affiches et des certificats de reconnaissances, les échanges et meeting avec tous nos différents partenaires qui nous ont accompagnés durant tout le hackatahon.
 **Résultat**
-👉 168 inscrits sur notre site dedié, 66 projets evalués, 40 participants rétenu, dont 10 projets. 
-👉 250 000 fcfa pour la meilleure équipe et une incubabtion de 6 mois, 4 bons de formation pour la 2e équipe par notre partenaire GOMYCODE, ainsi que 2 bons de formation pour la 3e équipe par GOMYCODE
-👉 Renforcement de partenariats pour la prochaine édition, bon retour de la part de nos partenaires dont notre école l'ESMT 
-**Poste LinkedIn** : https://www.linkedin.com/posts/bernard-tenguiano-241562306_hackathon-isoc-innovation-ugcPost-7453634218317758464-FPzM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4JUNEBtqQ4s_jJlAHnbF6bOVK5jnvBnwY
+- 168 inscrits sur notre site dedié, 66 projets evalués, 40 participants rétenu, dont 10 projets.
+- 250 000 fcfa pour la meilleure équipe et une incubabtion de 6 mois, 4 bons de formation pour la 2e équipe par notre partenaire GOMYCODE, ainsi que 2 bons de formation pour la 3e équipe par GOMYCODE
+-  Renforcement de partenariats pour la prochaine édition, bon retour de la part de nos partenaires dont notre école l'ESMT 
+   **Poste LinkedIn** : https://www.linkedin.com/posts/bernard-tenguiano-241562306_hackathon-isoc-innovation-ugcPost-7453634218317758464-FPzM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4JUNEBtqQ4s_jJlAHnbF6bOVK5jnvBnwY
 
 ## Stratégie marketing & communication : CAPRICE TERANGA OFFICIEL
 **Caprice Téranga** est une marque sénégalaise d’apéritif premium, alliant authenticité locale et élégance moderne. Pensé comme le compagnon idéal des moments conviviaux, le produit incarne la chaleur de la Téranga (hospitalité sénégalaise)  en matière de partage, aussi bien au Sénégal qu’à l’international, et j'accompagne la marque Caprice Téranga dans sa stratégie de positionnement et d’expansion à savoir sur ces différents Réseaux sociaux Facebook et LinkedIn : https://linktr.ee/capriceterangaofficiel
