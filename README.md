@@ -1,6 +1,6 @@
 #  Salut, moi c’est Bernard TENGUIANO
 
- Étudiant en master 2 à l’ESMT Dakar en Management de la Transformation Digitale  
+ Étudiant en master 2 en Finance Digitale à l’ESMT Dakar
  Passionné par l’IoT, la finance digitale, la data, l'audio visuel et la gestion de projet dont je suis membre du chapitre PMI Sénégal 
 
 ---
