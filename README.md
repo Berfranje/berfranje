@@ -14,6 +14,14 @@ Mon objectif est de **développer des solutions technologiques locales, accessib
 
 ##  Projets personnels et académiques
 
+## 2e édition Hackathon Club ISOC ESMT
+En tant que Vice Président du club, j'ai mené plusieurs tâches dont la séléction des mentors sur étude de profils, ainsi que des équipes qui ont été retenue de par la pertinence de leurs projets, la gestion de la restauration durant les 48h, la création de certaines affiches et des certificats de reconnaissances, les échanges et meeting avec tous nos différents partenaires qui nous ont accompagnés durant tout le hackatahon.
+**Résultat**
+👉 168 inscrits sur notre site dedié, 66 projets evalués, 40 participants rétenu, dont 10 projets. 
+👉 250 000 fcfa pour la meilleure équipe et une incubabtion de 6 mois, 4 bons de formation pour la 2e équipe par notre partenaire GOMYCODE, ainsi que 2 bons de formation pour la 3e équipe par GOMYCODE
+👉 Renforcement de partenariats pour la prochaine édition, bon retour de la part de nos partenaires dont notre école l'ESMT 
+**Poste LinkedIn** : https://www.linkedin.com/posts/bernard-tenguiano-241562306_hackathon-isoc-innovation-ugcPost-7453634218317758464-FPzM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4JUNEBtqQ4s_jJlAHnbF6bOVK5jnvBnwY
+
 ## Stratégie marketing & communication : CAPRICE TERANGA OFFICIEL
 **Caprice Téranga** est une marque sénégalaise d’apéritif premium, alliant authenticité locale et élégance moderne. Pensé comme le compagnon idéal des moments conviviaux, le produit incarne la chaleur de la Téranga (hospitalité sénégalaise)  en matière de partage, aussi bien au Sénégal qu’à l’international, et j'accompagne la marque Caprice Téranga dans sa stratégie de positionnement et d’expansion à savoir sur ces différents Réseaux sociaux Facebook et LinkedIn : https://linktr.ee/capriceterangaofficiel
 
@@ -34,10 +42,15 @@ Encourager l’innovation, la recherche et les projets concrets liés au digital
 - Thème : sensibilisation des populations à la pollution de l’air  
 - Création d’une **vidéo cartoon éducative**  destinée aux enfants  
 - Collaboration en équipe : idéation, prototypage, pitch lors du Demo Day  
-- Objectif : promouvoir des solutions numériques pour un environnement plus sain  
+- Objectif : promouvoir des solutions numériques pour un environnement plus sain
+- Mise en place d'une application mobile sur play store à voir ici : https://play.google.com/apps/internaltest/4701475509285802711
+- Résultat : 1500 personnes touchés par la sensibilisation, deploiement de 6 capteurs dans des écoles et des ambassadeurs de l'air désigner  dans chacunes des écoles, 2 prix remportés dont celui ( 2e sur deploiement, ensuite 3e pour sensibilisation ). Au total 3e sur trois catégories : innovation, sensibilisation et déploiement dont on recevra les rémises les 25 et 26 Juin 2026 lors de la journée de la qualité de l'aire. Tous les détails sur mon poste linkedin ici : https://www.linkedin.com/posts/bernard-tenguiano-241562306_ce-projet-ma-appris-ce-que-les-cours-ne-ugcPost-7458951091708301312-POXN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4JUNEBtqQ4s_jJlAHnbF6bOVK5jnvBnwY
 
-🎥 **Vidéo de présentation**  
-👉 [Regarder la vidéo Demo Day](https://drive.google.com/file/d/1i0iL16pKI4Y8DWXCZalRI06WApg9Pk3W/view?usp=drive_link)  
+
+🎥 **Différentes vidéos que j'ai réaliseé durant l'Hackathon**  
+👉 [Regarder la vidéo Demo Day](https://drive.google.com/file/d/1i0iL16pKI4Y8DWXCZalRI06WApg9Pk3W/view?usp=drive_link) 
+👉 [Image et vidéos de sensibilisation Hackathon Kaikai sur la mésure de la qualité de l'air] : https://drive.google.com/drive/folders/1z38YU4d6FOtzl8CEv3lIhjeJZZbElOQC?usp=drive_link
+
 
 ---
 
@@ -57,6 +70,9 @@ Participation du chapitre **PMI Sénégal** à l'évènement regroupant tous les
 ### Youth Social Impact  
 Activité de sensibilisation à la **cuisson propre** et au **don de foyers améliorés**.  
 👉 [Regarder la vidéo](https://drive.google.com/file/d/1LtJbXprPpfHEgBtTeXQiTATdxtoZ-Eo4/view?usp=drive_link)  
+
+**Certificat de reconnaissance** : 
+Récompenser comme l'un des bénévoles qui font bouger le chapitre lors des 10 ans au Novotel à voir ici : https://drive.google.com/file/d/162s1EBpLH3eurIHDZhXgvIVGv8M4rnis/view?usp=sharing
 
 ---
 
